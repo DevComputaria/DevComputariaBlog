@@ -5,7 +5,12 @@ date: 2018-05-01
 tags:
   - IA
 ---
-em 1942 o economista austríaco Joseph schmper apresentou ao mundo o conceito da destruição criativa onde ele basicamente explica como as inovações remodelam o mundo ao longo do tempo em um processo contínuo o velho da lugar ao novo destruindo e criando setores e modelos de negócios Por exemplo quando
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/0m2mhMB9Trg?si=uSAAc72CpCum8JtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+ 
+
+Em 1942 o economista austríaco Joseph schmper apresentou ao mundo o conceito da destruição criativa onde ele basicamente explica como as inovações remodelam o mundo ao longo do tempo em um processo contínuo o velho da lugar ao novo destruindo e criando setores e modelos de negócios Por exemplo quando
 os primeiros smartphones foram lançados eles não apenas criaram uma nova indústria como também destruíram outras existentes câmeras digitais compactas aparelhos GPS tocadores de MP3 e até mesmo o celulares mais básicos perderam o espaço e foram eliminados do mercado ao mesmo tempo a criação dos  smartphones possibilitou o surgimento de novos negócios e indústrias como aplicativos e jogos serviços de streamings e redes sociais entre ó várias outras pense Quantas vezes você fez uma compra pelo seu celular atrás de cada compra existe uma cadeia de fornecedores que dependem dessa tecnologia bom  a teoria de schumpeter diz ainda que essas transformações não ocorrem de maneira uniforme mas sim em grandes ondas que são impulsionadas pelas inovações tecnológicas começando lá com a Revolução Industrial passamos por cinco ondas que causaram profundo as transformações na sociedade cada uma dessas ondas trouxe consigo novas eras de inovação a última onda começou com a internet e deu início à era digital que durou até 2022 agora uma nova onda de inovação começou a se formar como um verdadeiro tsunami que em poucos meses causou grande impacto em nossa economia dando início a uma nova era.
 
 E a  pergunta que eu quero te fazer é você tá preparado para viver na era da Inteligência artificial.
@@ -23,6 +28,3 @@ Esse unicórnio inclusive atraiu investidores famosos como Bill Gates nesse mome
  rasileiro de especialistas e inteligência  artificial com foco em negócios e você que está acompanhando essa série já a em vantagem para se tornar um deles no próximo episódio eu vou te mostrar Quais são as habilidades que você precisa desenvolver para liderar projetos que utilizam inteligência  rtificial em empresas de todos os setores e se tornar o profissional mais valorizado do mercado Enquanto essa segunda aula não começa anota aí a primeira senha para emissão do seu certificado de participação inteligência tudo maiúsculo Tá bom você vai receber o link para  liberar o seu certificado na segunda-feira um dia antes do nosso último episódio agora aproveita e me conta aqui embaixo o que você achou desse Episódio que que você aprendeu que mais te chamou atenção eu vou ler cada um deles pessoalmente uma comenta mesmo  viu que eu tô acompanhando Quem são os mais engajados obrigada por me acompanhar até aqui eu te vejo no próximo episódio na data que está aparecendo aí na sua tela.
 
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/0m2mhMB9Trg?si=uSAAc72CpCum8JtZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
- 
