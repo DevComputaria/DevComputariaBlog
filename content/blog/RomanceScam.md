@@ -1,6 +1,6 @@
 ---
-title: Como saber se você está sendo enganado: as táticas dos golpistas amorosos são expostas | Ponto de discussão extra
-description: Com a ajuda de organizações anti-fraude, a produtora do TalkingPoint, Cheryl Tan, conseguiu scripts usados por sindicatos de golpes amorosos baseados na Ásia para executar "golpes de abate de porcos" - uma mistura de golpes românticos e esquemas de investimento falsos. Esses golpistas têm como alvo as vítimas, muitas mulheres profissionais altamente qualificadas, de todo o mundo - EUA, Europa, Cingapura, Malásia, Indonésia e muito mais
+title: Como saber se você está sendo enganado - as táticas dos golpistas amorosos são expostas | Ponto de discussão extra
+description: Com a ajuda de organizações anti-fraude, a produtora do TalkingPoint, Cheryl Tan, conseguiu scripts usados por sindicatos de golpes amorosos baseados na Ásia para executar golpes de abate de porcos - uma mistura de golpes românticos e esquemas de investimento falsos. Esses golpistas têm como alvo as vítimas, muitas mulheres profissionais altamente qualificadas, de todo o mundo - EUA, Europa, Cingapura, Malásia, Indonésia e muito mais
 date: 2018-10-01
 tags: RomanceScam 
 ---
