@@ -5,6 +5,9 @@ date: 2018-10-05
 tags: DREX CBDC
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Olxw0xafWA0?si=ABSUHlLMcHq4KXcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 Neste vídeo faço minha análise sobre o piloto do real digital (CBDC do Banco Central do Brasil) 
 
 - 00:00 - Início
