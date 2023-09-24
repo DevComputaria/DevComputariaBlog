@@ -1,7 +1,7 @@
 ---
 title: Vidas Sexuais Super Excêntricas e Bizarras dos papas do Vaticano
 description: A vida íntimä controversa dos papąs do Vaticanö ao longo da história, o Vaticanö tem sido lar de inúmeros papas que deixaram um impacto duradouro na Igreją Catolicä e no mundo. Enquanto muitos papas viveram vidas virtuosas e dedicadas, houve casos de escândalos e controvérsias dentro do papado.
-date: 2018-10-10
+date: 2018-08-24
 tags: Vaticano
 ---
 
