@@ -5,7 +5,9 @@ date: 2018-10-06
 tags: DREX CBDC
 ---
 
-- 00:00:00 - 00:50:00
+00:00:00 - 00:50:00
+
+
 Neste vídeo de análise do YouTube do piloto de moeda digital do Banco Central do Brasil (CBDC), o YouTuber fornece uma visão técnica aprofundada da infraestrutura do projeto e discute vários aspectos, como contratos inteligentes, algoritmos de consenso e participação na rede. Eles levantam dúvidas e críticas sobre o uso de blockchain em um sistema centralizado controlado por entidades confiáveis como o banco central, expressando preocupações sobre escalabilidade, eficiência e segurança. O youtuber questiona a necessidade de uma solução de blockchain autorizada e sugere que motivos políticos podem ter impulsionado a escolha da tecnologia. No entanto, manifestam vontade de continuar analisando o projeto ainda mais em seu tempo livre.
 
 
